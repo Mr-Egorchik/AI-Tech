@@ -11,3 +11,4 @@
 
 ЛР 5 --->[Click on me](https://github.com/Mr-Egorchik/AI-Tech/blob/main/6133_ChitorkinEE_lab_5_regression.ipynb)<---
 
+ЛР 6 --->[Click on me](https://github.com/Mr-Egorchik/AI-Tech/blob/main/6133_ChitorkinEE_lab_6_boosting.ipynb)<---
